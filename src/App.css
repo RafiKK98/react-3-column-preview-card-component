@@ -1,0 +1,25 @@
+
+/* Primary
+* 1. Bright Orange #e38826
+* 2. Dark cyan: #006970
+* 3. Very dark cyan: #004241
+** Neutral
+* 1. Transparent white (paragraphs): #ffffffbf
+* 2. Very light gray (background, headings, buttons): #f2f2f2
+*/
+
+.bg-bright-orange {
+    background-color: #e38826;
+}
+.bg-dark-cyan {
+    background-color: #006970;
+}
+.bg-very-dark-cyan {
+    background-color: #004241;
+}
+.transparent-white {
+    color: #ffffffbf;
+}
+.very-light-gray {
+    color: #f2f2f2;
+}
